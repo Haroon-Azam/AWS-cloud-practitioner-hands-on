@@ -31,15 +31,6 @@ EC2 provides scalable virtual servers that allow applications to run in the clou
 - Understood basic compute, access, and security concepts
 
 ---
-  
-
-## EC2 Instance Connect
-- Connected to the EC2 instance using **EC2 Instance Connect**
-- Accessed the instance securely via browser-based SSH
-- Verified instance connectivity without managing local SSH keys
-
-
----
 
 ## Notes
 - Instance launched using AWS Free Tier
